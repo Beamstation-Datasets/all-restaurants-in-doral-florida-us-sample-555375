@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Doral, Florida. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Doral, Florida, US",
+  "export_job_id": "e8305b06-cfb6-4340-b58e-ecb5c8908e42",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 555375,
+  "location_name": "Doral",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-doral-florida-us-sample-555375",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/555375/beamstation_555375_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 49,
+  "sample_sha256": "89a3b6a0e6f4dd679f054949fc926451b46af63c4e96f8e4844341f77d535adb",
+  "sample_size_bytes": 185921,
+  "total_records": 492,
+  "updated_at": "2026-04-09T09:45:44.376154+00:00"
+}
