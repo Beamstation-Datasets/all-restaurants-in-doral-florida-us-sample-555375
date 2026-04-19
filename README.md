@@ -1,6 +1,6 @@
 # All Restaurants in Doral, Florida, US
 
-> Free BeamStation sample export with 49 rows and masked direct-contact fields.
+> Free BeamStation sample export with 48 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `555375` |
 | Location | Doral |
 | Category | Restaurants |
-| Full dataset size | 492 records |
-| Free sample size | 49 records (9.96%) |
-| Last export | 2026-04-09T09:45:44.376154+00:00 |
+| Full dataset size | 483 records |
+| Free sample size | 48 records (9.94%) |
+| Last export | 2026-04-16T09:41:41.420380+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-doral-florida-us-sample-555375/releases/download/sample-latest/beamstation_555375_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
