@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e8305b06-cfb6-4340-b58e-ecb5c8908e42",
+  "export_job_id": "36554520-f21b-4dc7-a60c-cf43eb501f3b",
   "id_short": 555375,
-  "published_at": "2026-04-13T07:06:35Z",
+  "published_at": "2026-04-19T19:32:48Z",
   "repo_name": "all-restaurants-in-doral-florida-us-sample-555375",
   "sample_asset_name": "beamstation_555375_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/555375/beamstation_555375_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 49,
-  "sample_sha256": "89a3b6a0e6f4dd679f054949fc926451b46af63c4e96f8e4844341f77d535adb",
-  "sample_size_bytes": 185921,
-  "total_records": 492
+  "sample_records": 48,
+  "sample_sha256": "36b2f2cb00b18b716d85c80c335fe11abbc8ea8b38c85271af6228253c080fbc",
+  "sample_size_bytes": 173161,
+  "total_records": 483
 }
